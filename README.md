@@ -10,11 +10,13 @@ SEJA BEM-VINDO NA VIAGEM DE RODRIGO DUARTE!!!
 <a href="https://github.com/RodrigoDuarte777/convoychat">
   <img width="380em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDuarte777&layout=compact&show_icons=true&theme=algolia" />
 </a>
+
   <br>
   
 - 🔭 Atualmente trabalho com desenvolvimento web
 - 🌱Estudante de ciência da computação e gestão da qualidade
 - ⚡ HTML|CSS|JAVASCRIPT|PHP|mySQL|BOOTSTRAP|SCRUM|JAVA
+- ⚡Apaixonado por design e artes em 8 bits
 - ✉ duartesolutions2022@gmail.com
 - 📞(21)987598081
 
