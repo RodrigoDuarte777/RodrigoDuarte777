@@ -12,7 +12,8 @@ SEJA BEM-VINDO NA VIAGEM DE RODRIGO DUARTE!!!
 </a>
 
   <br>
-  
+  <br>
+
 - 🔭 Atualmente trabalho com desenvolvimento web
 - 🌱Estudante de ciência da computação e gestão da qualidade
 - ⚡ HTML|CSS|JAVASCRIPT|PHP|mySQL|BOOTSTRAP|SCRUM|JAVA
