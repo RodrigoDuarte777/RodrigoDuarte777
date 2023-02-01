@@ -25,7 +25,7 @@ SEJA BEM-VINDO NA VIAGEM DE RODRIGO DUARTE!!!
   <img align="center" alt="RO-mysql" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="RO-java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
   <img align="center" alt="RO-bootstrap" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg">
-  <img align="right" alt="RO-pic" height="150" style="border-radius:50px;" src="https://www.instagram.com/p/B56D7HuBkRl/?utm_source=ig_web_copy_link">
+  
 </div>
   
   ##
