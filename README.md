@@ -8,7 +8,7 @@ SEJA BEM-VINDO NA VIAGEM DE RODRIGO DUARTE!!!
   <img width="390em" align="center" src="https://github-readme-stats.vercel.app/api?username=RodrigoDuarte777&show_icons=true&theme=algolia" />
 </a>
 <a href="https://github.com/RodrigoDuarte777/convoychat">
-  <img width="360em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDuarte777&layout=compact&show_icons=true&theme=algolia" />
+  <img width="300em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RodrigoDuarte777&layout=compact&show_icons=true&theme=algolia" />
 </a>
 
   <br>
