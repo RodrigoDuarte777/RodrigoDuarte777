@@ -19,7 +19,7 @@ SEJA BEM-VINDO NA VIAGEM DE RODRIGO DUARTE!!!
 - ⚡ HTML|CSS|JAVASCRIPT|PHP|mySQL|BOOTSTRAP|SCRUM|JAVA
 - ⚡Apaixonado por design e artes em 8 bits
 - ✉ duartesolutions2022@gmail.com
-- 📞(21)987598081
+- 📞(21)96502-9121
 
 <div style="display: inline_block"><br>
   <img align="center" alt="RO-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
